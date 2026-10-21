@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "PyCQA",
+  "repo": "oeuvre",
+  "versions": [
+    {
+      "commit": "927deab3558f7f455b6dfca2167651eddc437a5d",
+      "parsed_at": "2026-10-21T02:08:04.460123+00:00",
+      "filetree": "filetree/927deab3558f7f455b6dfca2167651eddc437a5d.nq.gz",
+      "blobs": [
+        "blob/fd5d4c20d36be55a6e2c2307d168a1ba74cfcfb7.nq.gz",
+        "blob/a90b9c910c9f8fd0b6b1629aadf9ee0882f8d622.nq.gz",
+        "blob/86a42def9eacba0359f17e2ae696b7e41c766681.nq.gz",
+        "blob/a89faf9a8f83f99137ae41df7588d0d4e37b6dfe.nq.gz",
+        "blob/38976540cc4f1a603e1b469deca270f8b4358561.nq.gz",
+        "blob/49c8f6b535f811291f9a0559116228ac7b9bc655.nq.gz",
+        "blob/3c09210b00f825aa945b64cad03418a482561f40.nq.gz",
+        "blob/fe8936215986784461acbb531af89963d9daa206.nq.gz",
+        "blob/923b61996e82d8c3e92ccdee086389bcab3ae089.nq.gz",
+        "blob/4c620cee4a53e8432fdef3096d17e818a4a1d1c9.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}
