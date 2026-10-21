@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/PyCQA/oeuvre/commit/927deab3558f7f455b6dfca2167651eddc437a5d",
       "git:hexsha": "927deab3558f7f455b6dfca2167651eddc437a5d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
